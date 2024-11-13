@@ -27,4 +27,4 @@ This repository contains:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RiddhiJayswal/Apple_data_Analysis.git
+   git clone https://github.com/RiddhiJayswal/Apple_data_pipleline.git
