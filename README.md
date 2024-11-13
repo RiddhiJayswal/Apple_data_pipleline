@@ -1,4 +1,4 @@
-# Apple Inc. Data Analysis and Pipeline Project
+# Apple Data Analysis and Pipeline Project
 
 This project demonstrates data analysis and pipeline creation in Databricks using a dummy dataset modeled on Apple Inc. Key insights were extracted and ETL pipelines were developed to streamline data processing and analysis.
 
